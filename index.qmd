@@ -1,0 +1,17 @@
+---
+title: "quarto-dashboard-02"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
+
+```{r}
+1 + 1
+```
